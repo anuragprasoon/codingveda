@@ -1,0 +1,4 @@
+//if else
+q1)find odd even
+q2) find largest no.
+q3) find smallest no using nested if

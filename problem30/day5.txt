@@ -1,0 +1,7 @@
+//For loop , while loop, do while loop
+q1) print 1 to 10 using while loop;
+q2) print all the odd no. using do while loop.
+q3) WAP to display *         this pattern using for loop.
+                   * *
+                   * * * 
+                   * * * *

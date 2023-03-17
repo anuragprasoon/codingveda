@@ -1,0 +1,5 @@
+#Variable and Datatypes
+q1)WAP take two int type variables and store 10, 4 in them respectively and print the variables respectively.
+Q2)WAP take two float type variables and store 3.14, 9.8 in them respectively and print the variables respectively.
+Q3)WAP take two double type variables and store 3.14, 9.8 in them respectively and print the variables respectively.
+Q4)WAP take two char type variables and store "c", "v" in them respectively and print the variables respectively.
